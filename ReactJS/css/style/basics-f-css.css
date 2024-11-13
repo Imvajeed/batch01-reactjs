@@ -1,0 +1,50 @@
+.myClass{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
+
+#div1{
+    background-color: blue;
+    
+}
+/* #div2{
+    width: 500px;
+    height: 500px;
+    
+} */
+/* #div2::after{
+    content: "";
+    position: absolute;
+    left: 10px;
+    top: 100pxpx;
+    width: 500px;
+    height: 500px;
+    background: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRN_YLneDIMiLFQizeNOh3Y9bQs4a5nzAoD24ROXw-6zVQ7UZ-l);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+} */
+
+#div3{
+    height: 300px;
+    border: 2px solid rgb(238, 97, 97);
+    border-radius: 10px 0px 10px 0px;
+    margin: 5px;
+    text-align: center;
+}
+#ltrs{
+    /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-weight:lighter;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+    background: blue;
+    padding: 5px;
+    border-radius: 10px;
+}
